@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: 'If you use this assignment, please cite it using these metadata.'
+authors:
+  - name: Delft University of Technology
+title: 'Assignment Matrix Method in Statics as part of CIEM5000 of Delft University of Technology'
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: van Woudenberg
+    given-names: Tom
+  - family-names: Rocha
+    given-names: Iuri
+  - name: Delft University of Technology
+  url: 'https://github.com/CIEM5000-2026/practice-assignments' 
+  title: 'Assignment Matrix Method in Statics as part of CIEM5000 of Delft University of Technology'
+  license: CC-BY-4.0
+  license-url: 'https://creativecommons.org/licenses/by/4.0/'
+  languages:
+    - en
+  contact:
+  - email: T.R.vanWoudenberg@tudelft.nl
+    name: 'Tom van Woudenberg'
