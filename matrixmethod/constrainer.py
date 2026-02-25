@@ -100,7 +100,7 @@ class Constrainer:
         Returns:
             numpy.ndarray: The support reactions.
         """
-        #YOUR CODE HERE
+        
         
         return #YOUR CODE HERE
 
